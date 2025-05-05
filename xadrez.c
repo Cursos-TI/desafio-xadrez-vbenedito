@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    
     // Simulação da movimentação da Torre
     // Movimento: 5 casas para a direita
     // Estrutura usada: for
